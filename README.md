@@ -1,12 +1,9 @@
 # Hello, I'm Tendekai
 <a href="https://linkedin.com/in/tendekai-machingura/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a graduate student in Cybersecurity with hands-on experience in Networking, Systems Administration, and IT Support.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 As a dedicated Cybersecurity student with a curious passion for data security, I am eager to apply my knowledge and skills in **Network Security, Cloud Security**, and **SOC Analysis.** With a solid foundation in cybersecurity principles, along with hands-on experience in system administration and networking, my goal is to secure an entry-level role where I can contribute to enhancing organizational security measures, protecting sensitive data, and mitigating cyber threats. I am committed to continuous learning and growth in the cybersecurity field and am excited to bring my enthusiasm and technical expertise to a forward-thinking team.
 
