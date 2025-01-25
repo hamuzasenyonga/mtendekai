@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a current graduate student in Cybersecurity with hands-on experience in Networking, Systems Administration, and IT Support.
+I am a graduate student in Cybersecurity with hands-on experience in Networking, Systems Administration, and IT Support.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a dedicated Cybersecurity student with a curious passion for data security, I am eager to apply my knowledge and skills in Network Security, Cloud Security, and SOC Analysis. With a solid foundation in cybersecurity principles, along with hands-on experience in system administration and networking, my goal is to secure an entry-level role where I can contribute to enhancing organizational security measures, protecting sensitive data, and mitigating cyber threats. I am committed to continuous learning and growth in the cybersecurity field and am excited to bring my enthusiasm and technical expertise to a forward-thinking team.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
