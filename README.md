@@ -62,8 +62,8 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 </div>
 
 ## Systems & Applications
-- Windows Server         - Windows Server
-- Active Directory       - Active Directory
+- Windows Server         | Windows Server
+- Active Directory       | Active Directory
 
 
 ## Projects
