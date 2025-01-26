@@ -19,7 +19,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Certifications
+## Certifications (*Click to verify*)
 <div>
 <a href="https://www.credly.com/badges/79cce531-7dfa-48a2-b11b-0043ca63f056/linked_in_profile"target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
