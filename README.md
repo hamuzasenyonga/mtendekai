@@ -38,7 +38,8 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 ## Tools
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Event Viewer-40E0D0?&style=for-the-badge&logo=Zeek&logoColor=white" />
    <img src="https://img.shields.io/badge/-Routing & Switching-1BA0D7?&style=for-the-badge&logo=Suricata&logoColor=white" />
    <img src="https://img.shields.io/badge/-Network_Protocols-4CAF50?&style=for-the-badge&logo=Zeek&logoColor=white" />
    <img src="https://img.shields.io/badge/-Firewalls-FFBF00?&style=for-the-badge&logo=Zeek&logoColor=white" />
