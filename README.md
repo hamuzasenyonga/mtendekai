@@ -48,7 +48,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ESET_Protect-48D1CC?&style=for-the-badge&logo=ESET&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ESET_Protect-00CED1?&style=for-the-badge&logo=ESET&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos_Endpoint-2F6C9E?&style=for-the-badge&logo=Sophos&logoColor=white" />
     <img src="https://img.shields.io/badge/-McAfee-CC0000?&style=for-the-badge&logo=McAfee&logoColor=white" />
 
