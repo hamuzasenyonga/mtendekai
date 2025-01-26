@@ -48,7 +48,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 <a href="https://www.credly.com/badges/79cce531-7dfa-48a2-b11b-0043ca63f056/linked_in_profile"target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA%2B-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
