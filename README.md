@@ -61,6 +61,10 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
    
 </div>
 
+## Systems & Applications
+- Windows Server
+- Active Directory
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
