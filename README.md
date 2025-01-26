@@ -65,7 +65,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 <div>
 <img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft_365-DC3E15?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Active_Directory-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 <div>
 ## Projects
