@@ -55,8 +55,8 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
   <img src="https://img.shields.io/badge/-CC(ISC2)-006400?&style=for-the-badge&logoColor=white" alt="CC (ISC2) Badge" />
 </a>
 
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
