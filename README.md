@@ -62,10 +62,10 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 </div>
 
 ## Systems & Applications
-- Windows Server          | Windows Server
-- Active Directory        | Active Directory
+<div>
+<img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
-
+<div>
 ## Projects
 - Detection Lab
 - SOC Automation Project
