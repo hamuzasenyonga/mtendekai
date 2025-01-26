@@ -19,6 +19,22 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Certifications
+<div>
+<a href="https://www.credly.com/badges/79cce531-7dfa-48a2-b11b-0043ca63f056/linked_in_profile"target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/185183b4-1305-4b32-a2ec-618be57ee64d" target="_blank">
+  <img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/01d385ea-cff4-4d43-b273-4b54e845f096/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/-CC(ISC2)-006400?&style=for-the-badge&logoColor=white" alt="CC (ISC2) Badge" />
+</a>
+<a href="https://www.credly.com/badges/995275f0-5fac-4ed4-951f-e8b66ed28451/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/-Microsoft%20AZ--900-737373?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft AZ-900 Badge" />
+</a>
+<div>
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -43,25 +59,6 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
    
-</div>
-
-## Certifications
-<div>
-<a href="https://www.credly.com/badges/79cce531-7dfa-48a2-b11b-0043ca63f056/linked_in_profile"target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-<a href="https://www.credly.com/earner/earned/badge/185183b4-1305-4b32-a2ec-618be57ee64d" target="_blank">
-  <img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</a>
-<a href="https://www.credly.com/badges/01d385ea-cff4-4d43-b273-4b54e845f096/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/-CC(ISC2)-006400?&style=for-the-badge&logoColor=white" alt="CC (ISC2) Badge" />
-</a>
-<a href="https://www.credly.com/badges/995275f0-5fac-4ed4-951f-e8b66ed28451/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/-Microsoft%20AZ--900-737373?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft AZ-900 Badge" />
-</a>
-
-
-
 </div>
 
 ## Projects
