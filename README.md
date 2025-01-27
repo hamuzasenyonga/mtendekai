@@ -12,7 +12,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 ## Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Capture the Flag| Traffic & log analysis, threat mitigation|Wireshark, Event Viewer |<a href= "https://github.com/mtendekai/CaptureTheFlag2024/edit/main/README.md">Cyber Challenge</a>   |
+| Capture the Flag| Traffic & log analysis, threat mitigation|Wireshark, Event Viewer |<a href= "https://github.com/mtendekai/CaptureTheFlag2024/main/README.md">Cyber Challenge</a>   |
 | Cyber Challenge |                                       |                 |                 |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
