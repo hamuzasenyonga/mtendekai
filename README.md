@@ -7,14 +7,13 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 
  As a dedicated student with a solid foundation in cybersecurity principles, along with hands-on experience in system administration and networking, my goal is to secure an entry-level role aligned to **Network Security, Cloud Security**, **SOC Analysis**, **Incident Response** or **Compliance** where I can contribute to enhancing organizational security measures, protecting sensitive data, and mitigating cyber threats. I am committed to continuous learning and growth in the cybersecurity field and am excited to bring my enthusiasm and technical expertise to a forward-thinking team.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects & Skills
 
 ## Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|                 |                                       |                 |                 |
+| Capture the Flag| Traffic & log analysis, threat mitigation|Wireshark, Event Viewer |  <a href="https://google.com]https://github.com/iMentorYT/SIEM/tree/main]https://github.com/mtendekai/CaptureTheFlag2024/edit/main/README.md">Cyber Challenge</a>   |
+| Cyber Challenge |                                       |                 |                 |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
