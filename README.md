@@ -15,7 +15,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 | Capture the Flag| Traffic & log analysis, Threat mitigation|Wireshark, Event Viewer |<a href="https://github.com/mtendekai/CaptureTheFlag2024/blob/main/README.md">Cyber Challenge</a>
 | SIEM            |  Log Mgnt & Analysis, Incident Response|Splunk, Microsoft Sentinel|<a href="https://github.com/mtendekai/SIEM/blob/main/README.md">SIEM</a>              
 |Python Programming| Coding, Problem solving              |Python           | <a href="https://github.com/mtendekai/Python/blob/main/README.md">Python</a>                |
-|                 |                                       |                 |                 |
+|Cybersecurity Project|Communication, Research            |NIST 800-53r5, NIST CSF 2.0, CISSP Official Textbook|<a href="https://github.com/mtendekai/Cybersecurity-Foundations-Project/blob/main/README.md">Cybersecurity Project</a>                |
 |                 |                                       |                 |                 |
 
 ## Certifications (*Click to verify*)
